@@ -160,4 +160,20 @@
     <path id="Franklin" d="M456.3371 408.81865l2.26262 1.72828-1.37521 10.46636-9.04358 3.15785-2.6189-10.93126.78296-.43623.29709-.08832 7.23965-.98542 2.45537-2.91126"/>
     <path id="Stephens" d="M446.92967 402.45101l9.40743 6.36764-2.45537 2.91126-7.23965.98542-.29709.08832-.78296.43623-2.43675-.72958 3.80439-10.05929"/>
   </g>
+  <use xlink:href="#Spalding" fill="#AAA"/>
+  <use xlink:href="#Hart" fill="#AAA"/>
+
+  <use xlink:href="#Colquitt" fill="#AAA"/>
+  <use xlink:href="#Grady" fill="#AAA"/>
+  <use xlink:href="#Pulaski" fill="#AAA"/>
+  <use xlink:href="#McDuffie" fill="#AAA"/>
+  <use xlink:href="#Washington" fill="#AAA"/>
+
+  <use xlink:href="#Candler" fill="#AAA"/>
+  <use xlink:href="#Clayton" fill="#AAA"/>
+  <use xlink:href="#Glynn" fill="#AAA"/>
+  <use xlink:href="#Habersham" fill="#AAA"/>
+  <use xlink:href="#Sumter" fill="#AAA"/>
+  <use xlink:href="#Whitfield" fill="#AAA"/>
+
 </svg>
