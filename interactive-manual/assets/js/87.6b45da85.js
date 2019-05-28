@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{391:function(n,t,s){},466:function(n,t,s){"use strict";var i=s(391);s.n(i).a},558:function(n,t,s){"use strict";s.r(t);var i={},e=(s(466),s(1)),c=Object(e.a)(i,function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"phishing-url"})},[],!1,null,"557f5f60",null);t.default=c.exports}}]);
